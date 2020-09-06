@@ -4,7 +4,7 @@
   </head>
   <body>
     <h1>Daber Flappy Bird</h1>
-    <img src="https://drive.google.com/file/d/176OeFADrELx3d0LkbQDohXytoBrzORsi/view?usp=sharing"/>
+    <img src="http://drive.google.com/uc?export=view&id=1hDQPb4PlKMv3PPQ87hLRsY4lkyn8-joZ"/>
 <p>Project Game 2d Sederhana degan menggunakan electron dan javascript, jika ingin menjalakan di lokal komputer anda
 silahkan install node js dan install package electron
 </p>
