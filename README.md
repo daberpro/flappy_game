@@ -7,7 +7,8 @@
 <p>Project Game 2d Sederhana degan menggunakan electron dan javascript, jika ingin menjalakan di lokal komputer anda
 silahkan install node js dan install package electron
 </p>
+    <hr>
     
-    ```npm i -D electron@latest```
+    npm install -g electron
   </body>
 </html>
