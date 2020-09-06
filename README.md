@@ -1,5 +1,4 @@
 
-<!doctype html>
 <html lang="en">
   <head>
   </head>
@@ -8,5 +7,7 @@
 <p>Project Game 2d Sederhana degan menggunakan electron dan javascript, jika ingin menjalakan di lokal komputer anda
 silahkan install node js dan install package electron
 </p>
+    
+    ```npm i -D electron@latest```
   </body>
 </html>
