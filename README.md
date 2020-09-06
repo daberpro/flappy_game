@@ -4,6 +4,7 @@
   </head>
   <body>
     <h1>Daber Flappy Bird</h1>
+    <img src=""/>
 <p>Project Game 2d Sederhana degan menggunakan electron dan javascript, jika ingin menjalakan di lokal komputer anda
 silahkan install node js dan install package electron
 </p>
