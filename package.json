@@ -1,0 +1,21 @@
+{
+  "name": "flappy_bird",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daber",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daberpro/flappy_game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daberpro/flappy_game/issues"
+  },
+  "homepage": "https://github.com/daberpro/flappy_game#readme",
+  "description": ""
+}

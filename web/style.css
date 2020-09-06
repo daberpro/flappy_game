@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.restart{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    display: none;
+}
+.restart:hover{
+    box-shadow: 0px 0px 100px white;
+    border-bottom: 5px solid gray;
+}
+.restart:active{
+    border-bottom: 2px solid gray;
+}
+.home{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    display: none;
+}
+.home:hover{
+    box-shadow: 0px 0px 100px white;
+    border-bottom: 5px solid gray;
+}
+.home:active{
+    border-bottom: 2px solid gray;
+}
+img{
+    display: none;
+}
+
+button{
+    border: none;
+    outline: none;
+}
+
+canvas{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(50,50,50);
+}
+
+#menu{
+    position: fixed;
+    width: 200px;
+    height: 40px;
+    -webkit-app-region: none;
+}
+
+#header{
+position: absolute;
+    width: 100%;
+    height: 40px;
+    background-color: inherit;
+    -webkit-app-region: drag;
+}
+
+#menu button{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    margin: 5px;
+    float: left;
+    cursor: pointer;
+}
+
+#close{
+    background-color: brown;
+}
+#maximize{
+    background-color: silver;
+}
+
+#minimize{
+    background-color: gray;
+}
