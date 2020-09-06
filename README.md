@@ -1,5 +1,4 @@
 
-1hDQPb4PlKMv3PPQ87hLRsY4lkyn8-joZ
 <html lang="en">
   <head>
   </head>
@@ -14,5 +13,6 @@ silahkan install node js dan install package electron
     <p>kemudian install juga package electron dengan menggunakan CMD atau console di komputer anda</p>
     
     npm install -g electron
+   <p>setelah menginstall package silahkan clone repo berikut 
   </body>
 </html>
