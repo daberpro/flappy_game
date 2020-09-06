@@ -8,6 +8,8 @@
 silahkan install node js dan install package electron
 </p>
     <hr>
+    <p>install node js dari https://nodejs.org/en/ </p>
+    <p>kemudian install juga package electron dengan menggunakan CMD atau console di komputer anda</p>
     
     npm install -g electron
   </body>
